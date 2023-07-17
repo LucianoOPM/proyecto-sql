@@ -1,0 +1,51 @@
+Nombre,Precio,IDOferta,CalificacionTotal
+Silla gamer,2570,3,3.4
+Tarjeta de video RTX 3090,6350,NULL,3.2
+Mouse gamer Logitech,9012,10,1.3
+Procesador Ryzen 5,2957,5,3.1
+Procesador Ryzen 7,4932,6,3.9
+Procesador Intel 10th Gen,6615,2,1.6
+Tarjeta de video GTX 1660s,4785,6,3.5
+Tarjeta de video GTX 1050ti,3184,3,2.3
+Silla gamer,7898,3,3.1
+Teclado mecanico Logitech,3489,5,1.2
+Teclado mecanico Razer,7283,NULL,2.4
+Teclado mecanico Corsair,6975,6,3.3
+Procesador Intel 7ma Gen,1510,10,1.8
+Procesador Ryzen 9,6766,NULL,1.9
+Memoria RAM 2x8GB,3341,9,4.7
+Memoria RAM 1x8GB,4289,9,1.4
+Memoria RAM 1x16GB,9070,10,3.2
+HDD 1TB,4492,4,1.7
+HDD 2TB,7572,10,2.9
+SSD 240GB,8591,5,2.4
+SSD 480GB,4168,9,2.2
+SSD 1TB,5348,1,1.6
+SSD 2TB,9993,1,2.1
+M.2 240GB,5990,5,2.9
+M.2 480GB,7333,8,3.2
+M.2 1TB,6224,3,4.3
+M.2 2TB,5155,7,2.4
+Tarjeta de video RX5900,7594,1,4.5
+Tarjeta de video RX7800,2449,10,4.3
+Silla gamer,3715,NULL,1.4
+Mouse gamer Razer,9620,1,2.8
+Mouse gamer Corsair,3956,8,4.1
+Monitor 19" 75hz,3945,5,1.4
+Monitor 20" 75hz,3489,1,3.3
+Monitor 21" 75hz,1566,2,1.9
+Monitor 22" 75hz,9194,3,1.8
+Monitor 23" 75hz,8587,8,2.3
+Monitor 19" 144hz,4626,5,3.7
+Monitor 20" 144hz,6239,8,1.9
+Monitor 21" 144hz,2424,7,1.4
+Monitor 23" 144hz,8151,7,4.2
+Tarjeta de video 2090ti,4960,1,2.1
+Tarjeta de video 3090ti,6960,1,4.3
+Tarjeta de video 1050,5449,6,1.2
+Tarjeta de video 1660,8549,4,4.3
+Tarjeta de video 1660ti,9738,6,1.8
+Pasta termica,2009,NULL,4.7
+Gabinete gamer GameForce,2771,5,2.5
+Gabinete gamer DeepCool,6078,6,3.1
+Gabinete gamer Corsair,8180,8,4.1

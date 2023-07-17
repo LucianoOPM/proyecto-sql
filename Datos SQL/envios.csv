@@ -1,0 +1,25 @@
+FechaEnvio,EstadoEnvio,IDPedido
+2023-09-27,Recibido,1
+2023-02-28,En camino,2
+2023-12-20,En camino,3
+2023-03-18,Por enviar,4
+2023-02-28,En camino,5
+2023-12-26,Recibido,10
+2023-04-10,En camino,12
+2023-05-08,Recibido,15
+2023-05-11,En camino,16
+2023-10-10,Recibido,17
+2023-01-20,Por enviar,19
+2023-10-20,Recibido,20
+2023-07-14,Por enviar,22
+2023-11-30,Recibido,23
+2023-06-12,Por enviar,25
+2023-08-30,Recibido,27
+2023-06-02,Por enviar,28
+2023-05-15,Recibido,29
+2023-10-18,En camino,31
+2023-08-23,Recibido,32
+2023-12-14,En camino,36
+2023-10-25,Recibido,37
+2023-05-05,En camino,39
+2023-07-20,Recibido,40
